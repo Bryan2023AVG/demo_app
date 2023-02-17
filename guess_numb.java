@@ -1,3 +1,6 @@
+/*
+Im Writing as the original bryan i adding these comment as change
+*/
 import java.util.Scanner;
 
 public class guess_numb
