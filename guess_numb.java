@@ -52,6 +52,7 @@ public class guess_numb
 		
 		if(flag==1)
 		    System.out.println(arr[mid]+" is there");
+		    System.out.println("Thank you for using!");
 		else
 		    System.out.println(" is NOT there");
 	}
