@@ -7,7 +7,7 @@
  4. delLast()
  5. search()
 
-### **Thing to learn next**
+# **Thing to learn next**
  - Count
  - Reverse a list 
  - Calculate sum of list
