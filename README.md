@@ -8,6 +8,10 @@ Learned Markdown from these->] (https://www.youtube.com/watch?v=eJojC3lSkwg)
  4. delLast()
  5. search()
 
+#### **Thing to learn next**
+ - Count
+ - Reverse a list 
+ - Calculate sum of list
 
 
 //Done method for this session
